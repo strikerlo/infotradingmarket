@@ -1,0 +1,128 @@
+*{margin: 0%; padding: 0%;}
+body{ width: 100%;
+    height: 100%;
+    
+}
+#header{
+    position: absolute;
+    top: 1%;
+    width: 20%;
+    left: 2%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15pt;
+    font-weight: bolder;   
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+    color: rgb(243, 247, 245);
+}
+a:hover{
+    opacity: 1.5;
+}
+#menu{
+    position: absolute;
+    top: 1%;
+    left: 525pt;
+    width: 28%;
+    float: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+    font-weight: bold;
+}
+#men2{
+    position: relative;
+    left: 4%;
+}
+#men3{
+    position: relative;
+    left: 9%;
+}
+#men4{
+    position: absolute;
+    top: 3ch;
+    left: 0%;
+}
+#topic{
+    position: absolute;
+    top: 5ch;
+    text-align: center;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25pt;
+    color: white;
+    font-weight: bolder;
+}
+#topic-body{
+    font-size: 13pt;
+    font-weight: bold;
+}
+#content{
+    position: absolute;
+    top: 45ch;
+    left: 12ch;
+    right: 12ch;
+    color: black;
+}
+#content a {
+    color: black;
+}
+#content a:hover {
+    text-decoration: underline;
+}
+#content1{
+    position: absolute;
+    top: 11ch;
+}
+#content2{
+    position: absolute;
+    top: 22ch;
+}
+#content3{
+    position: absolute;
+    top: 32ch;
+}
+#content4{
+    position: absolute;
+    top: 41ch;
+}
+#infom{
+    position: absolute;
+    top: 100ch;
+}
+#conten{
+    position: absolute;
+    top: 152ch;
+    left: 12ch;
+    right: 12ch;
+    color: black;
+}
+#break{
+    position: absolute;
+    left: 58ch;
+}
+#brek{
+    position: absolute;
+    left: 0%;
+    top: 45ch;
+}
+#brk{
+    position: absolute;
+    left: 58ch;
+    top: 45ch;
+}
+#patt{
+    position: absolute;
+    top: 242ch;
+}
+
+#footer{position: absolute;
+    width: 100%;
+    height: 3ch;
+    top: 292ch;
+    background-color: black;
+    color: white;
+    width: 100%;
+    text-align: center;
+    font-size: 12pt;
+}
